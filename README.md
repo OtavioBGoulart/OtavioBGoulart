@@ -2,7 +2,7 @@
 ## 👋 Hi there! I'm Otávio Goulart
 
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🧙‍♂️ I'm curious about technology and i love music 
+- 🧙‍♂️ I'm curious about technology and I love music 
 
 ## 🛠️ Skills & Tools
 
